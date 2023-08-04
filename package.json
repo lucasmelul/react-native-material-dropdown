@@ -36,6 +36,6 @@
     "prop-types": "^15.5.9",
     "react-native-material-buttons": "^0.5.0",
     "react-native-material-ripple": "^0.8.0",
-    "react-native-material-textfield": "rtroncoso/react-native-material-textfield#v0.12.1"
+    "react-native-material-textfield": "https://github.com/lucasmelul/react-native-material-textfield.git"
   }
 }
